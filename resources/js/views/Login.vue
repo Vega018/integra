@@ -1,7 +1,7 @@
 <template>
     <div class="auth">
         <div class="login-wrapper">
-            <div class="auth-section">
+            <div class="auth-section">cls
                 <div class="auth-card">
                     <div class="auth-logo">
                         <a href="javascript:void(0)" style="display: flex; align-items: center; justify-content: flex-start;">
@@ -18,6 +18,7 @@
                                    v-model="user.email">
                             <div class="form-control-icon">
                                 <i class="bi bi-person"></i>
+
                             </div>
                         </div>
                         <div class="form-group position-relative has-icon-left">
